@@ -420,7 +420,7 @@ Thanks to:
 - [Izzy12](https://github.com/lzzy12/) for original repo
 - [Dank-del](https://github.com/Dank-del/) for base repo
 - [magneto261290](https://github.com/magneto261290/) for some features
-- [SVR666](https://github.com/SVR666/) for some features & fixes
+- [SVR666](https://github.com/SVR666) for some features & fixes
 - [anasty17](https://github.com/anasty17) for some features & help
 
 </details>
